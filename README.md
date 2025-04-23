@@ -12,7 +12,7 @@ Welcome to **YumYum**, the ultimate restaurant website built with React, Redux, 
 - [License](#license)
 - [Contact](#contact)
 
-## Features are plenty
+## Features
 
 - Explore a variety of dishes
 - Browse and search menus
